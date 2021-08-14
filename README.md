@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yahia Khaled
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Java and Linux
+- 🌱 I’m currently learning Java, Linux and MySQL
 - 📫 yahia.1991@live.com
 
 <!---
