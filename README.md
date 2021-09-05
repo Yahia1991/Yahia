@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yahia Khaled
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning Java, Linux and MySQL
-- 📫 yahia.1991@live.com
+- 👀 I’m interested in software development. Now Iam learning Java, Linux and MySQL. 
+- 🌱 Studying IT at Jyväskylä University of Applied Sceince.
+- 📫yh.ka21@protonmail.com
 
 <!---
 Yahia1991/Yahia1991 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
